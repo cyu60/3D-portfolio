@@ -12,6 +12,10 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@mantine/core": "^6.0.13",
+    "@mantine/form": "^6.0.13",
+    "@mantine/hooks": "^6.0.13",
     "@react-three/drei": "^9.50.3",
     "@react-three/fiber": "^8.9.2",
     "r3f-perf": "^6.6.3",
